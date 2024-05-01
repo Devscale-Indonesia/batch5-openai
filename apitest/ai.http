@@ -1,0 +1,6 @@
+### CREATE NEW COLOR
+POST http://localhost:3000/api/colors
+
+{
+    "colorNumbers": 3
+}

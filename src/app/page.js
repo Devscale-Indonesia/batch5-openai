@@ -1,3 +1,5 @@
+import { RecipeGenerator } from "@/components/recipeGenerator";
+
 export default function Page() {
-  return <main>Hey there!</main>;
+  return <RecipeGenerator />;
 }
